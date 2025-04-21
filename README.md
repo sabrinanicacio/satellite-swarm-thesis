@@ -18,22 +18,6 @@ All simulations are conducted in the LVLH frame using Clohessy-Wiltshire dynamic
 
 ---
 
-## 📁 Repository Structure
-
-satellite-swarm-thesis/
-├── code/                # Core simulation scripts (SIM_01 to SIM_08)
-│   ├── sim01_passive.m
-│   ├── sim04_cvx.m
-│   ├── sim07_repulsion.m
-│   ├── sim08_fmincon.m
-│   └── ...              # (helper functions, plotting tools)
-├── results/             # Figures, trajectory plots, and Delta-V profiles
-├── thesis/              # Final LaTeX source (optional if sharing)
-├── README.md            # This file
-
-
----
-
 ## 📊 Simulations Included
 
 | Simulation | Description |
