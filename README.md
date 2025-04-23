@@ -29,7 +29,7 @@ All simulations are conducted in the LVLH frame using Clohessy-Wiltshire dynamic
 | SIM 05     | Leader failure and fault-aware reconfiguration |
 | SIM 06     | Initial velocity perturbation robustness |
 | SIM 07     | Nonlinear repulsion-based collision avoidance (failed) |
-| SIM 08     | Nonlinear optimization with hard safety constraints (infeasible) |
+| SIM 08     | Nonlinear optimization with collision avoidance (fmincon) |
 
 ---
 
